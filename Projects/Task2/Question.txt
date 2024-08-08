@@ -1,0 +1,7 @@
+Task2:
+
+1. Download this file through python code (https://github.com/logpai/loghub/blob/master/Hadoop/Hadoop_2k.log)
+2. Identify number of lines with "ERROR", "WARN" and "INFO" in it.
+3. Identify number of ip addresses with port number 
+4. Identify total sleep time of the whole log 
+5. Store this in a json file and send it as mail to you.

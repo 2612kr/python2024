@@ -1,0 +1,7 @@
+Task/project: 
+
+1. Get resume from user (as text file or word) (you can use your resume)
+2. Check whether file is empty or not 
+3. Extract below details from resume mobile number, email address, GitHub/LinkedIn id, all numbers in resume, date of birth
+4. Using extracted date of birth, calculate age of the person 
+5. Send extracted details as mail to your mail id (study SMTP and email module). https://realpython.com/python-send-email/
